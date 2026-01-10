@@ -1,0 +1,24 @@
+{
+    "nome": "Tyia",
+    "nivel": 1,
+    "xp": 40,
+    "xp_proximo_nivel": 100,
+    "hp": 100,
+    "quests": [
+        {
+            "tarefa": "Correr/Andar",
+            "dificuldade": "M\u00e9dia",
+            "status": "Conclu\u00edda"
+        },
+        {
+            "tarefa": "Pushups 50",
+            "dificuldade": "M\u00e9dia",
+            "status": "Conclu\u00edda"
+        },
+        {
+            "tarefa": "Pullupbar 5",
+            "dificuldade": "Dif\u00edcil",
+            "status": "Conclu\u00edda"
+        }
+    ]
+}
